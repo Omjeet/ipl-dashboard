@@ -5,6 +5,7 @@ import { TeamPage } from './pages/TeamPage';
 function App() {
   return (
     <div className="App">
+      {/* //calling team page */}
       <TeamPage></TeamPage>
      
     </div>
